@@ -3,6 +3,7 @@
 # Executable Gin Rummy Game in the terminal written in Ocaml
 
 ## To run: 
+
 There is an easy installation script simply run the following commands on any Debian based system with APT
 
 ```bash
@@ -13,6 +14,7 @@ chmod +x Gin-Rummy-Ocaml/install.sh
 ```
 
 ## Start Command:
+
 Once the install script successfully installs dependencies and builds the code, you should see the game show up
 Run `new game <Player1Name> <Player2Name>` up to 5 player names to run the game.
 
