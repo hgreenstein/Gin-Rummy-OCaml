@@ -1,0 +1,8 @@
+*.zip
+*:Zone.Identifier
+_build/
+doc.public/
+doc.private/
+*.html
+main.mli
+*.css

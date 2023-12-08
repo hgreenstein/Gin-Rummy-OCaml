@@ -1,0 +1,7 @@
+#load "ounit2.cmo";;
+#require "ounit2";;
+#directory "_build";;
+#use "card.ml";;
+#use "deck.ml";;
+#use "gamestate.ml";;
+
