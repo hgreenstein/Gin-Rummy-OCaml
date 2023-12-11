@@ -6,3 +6,4 @@ doc.private/
 *.html
 main.mli
 *.css
+main.byte
