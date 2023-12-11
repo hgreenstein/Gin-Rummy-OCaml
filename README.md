@@ -14,7 +14,8 @@ For Debian-based systems with APT, you can use the provided script:
 
 ```bash
 git clone git@github.com:hgreenstein/Gin-Rummy-OCaml.git
-chmod +x Gin-Rummy-Ocaml/install.sh
+cd Gin-Rummy-OCaml
+chmod +x install.sh
 ./install.sh
 ```
 
