@@ -7,3 +7,4 @@ doc.private/
 main.mli
 *.css
 main.byte
+_build/main.byte
