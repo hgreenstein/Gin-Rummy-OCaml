@@ -7,5 +7,7 @@ opam install ocamlfind
 eval $(opam env)
 opam install ocamlbuild
 eval $(opam env)
+opam install ANSITerminal
+eval $(opam env) 
 make build
 make game
