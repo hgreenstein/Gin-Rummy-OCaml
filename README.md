@@ -13,7 +13,7 @@ There are two methods to install Gin-Rummy-OCaml: using the installation script 
 For Debian-based systems with APT, you can use the provided script:
 
 ```bash
-git clone git@github.com:hgreenstein/Gin-Rummy-OCaml.git
+git clone https://github.com/hgreenstein/Gin-Rummy-OCaml.git
 cd Gin-Rummy-OCaml
 chmod +x install.sh
 ./install.sh
